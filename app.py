@@ -63,7 +63,7 @@ input_prompt1 = """
 """
 
 input_prompt3 = """
-You are an skilled ATS (Applicant Tracking System) scanner with a deep understanding of data science and ATS functionality, 
+You are an skilled ATS (Applicant Tracking System) scanner with a deep understanding of data science, full stack development,  frontend, backend, machine learning, devops and ATS functionality, 
 your task is to evaluate the resume against the provided job description. give me the percentage of match if the resume matches
 the job description. First the output should come as percentage and then keywords missing and last final thoughts.
 """
