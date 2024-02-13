@@ -16,6 +16,9 @@ This is an Applicant Tracking System (ATS) tracking system developed using Gemin
   - The system analyzes the resume and provides a percentage match with the job description.
   - Suggestions are given on how users can improve the match to increase their chances of selection.
 
+## Screenshot
+![image](https://github.com/deepak814795/ATS-Tracking-Gemini-Pro/assets/91387970/3149e25a-764c-4dca-927e-94ca740a06eb)
+
 ## Use Case
 
 ### Scenario:
